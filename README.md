@@ -18,7 +18,7 @@ Some basic cybersecurity scripts I wrote back in my **1st semester** when I was 
 
 ## Why this repo?
 
-I wanted to document my first baby steps into ethical hacking and Python scripting. Looking back, it’s fun to see how it all started.
+I wanted to document my first baby steps into the field. Looking back, it’s fun to see how it all started.
 
 ---
 
